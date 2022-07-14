@@ -1,3 +1,3 @@
 # React To-do
 
-A to-do list develop in React.
+A to-do list developed in React.
