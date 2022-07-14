@@ -1,2 +1,3 @@
-# Things for later...
-- Learn to use bootstrap. 
+# React To-do
+
+A to-do list develop in React.
